@@ -95,6 +95,3 @@ CamVid-SAM2/
 ---
 
 
-
-👉 Want me to also generate a **shorter polished project description** (like a paragraph) that you can paste in the GitHub repo’s **About section**?
-```
