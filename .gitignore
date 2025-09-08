@@ -1,0 +1,16 @@
+﻿# Generated ignores
+outputs\*\*.png
+outputs\*\*.jpg
+outputs\*\*.jpeg
+
+# Caches / builds
+sam2\build\
+sam2\SAM_2.egg-info\
+__pycache__\
+*.pyc
+*.egg-info
+*.log
+
+# OS cruft
+.DS_Store
+Thumbs.db
